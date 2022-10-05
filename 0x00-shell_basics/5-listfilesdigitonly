@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a streams
+ls -al
